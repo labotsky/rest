@@ -1,0 +1,21 @@
+D, [2015-12-06T21:31:30.973035 #3717] DEBUG -- : Client connected
+D, [2015-12-06T21:31:30.977512 #3717] DEBUG -- : Received message: {"post":{"id":"26","action":"update"}}
+D, [2015-12-06T21:31:30.979918 #3717] DEBUG -- : Client disconnected
+D, [2015-12-06T21:32:10.382760 #3717] DEBUG -- : Client connected
+D, [2015-12-06T21:32:10.387457 #3717] DEBUG -- : Received message: {"post":{"id":"","action":"create"}}
+D, [2015-12-06T21:32:10.387966 #3717] DEBUG -- : Client disconnected
+D, [2015-12-06T21:43:16.677123 #3717] DEBUG -- : Client connected
+D, [2015-12-06T21:43:16.680258 #3717] DEBUG -- : Received message: {"post":{"id":"34","action":"update"}}
+D, [2015-12-06T21:43:16.681228 #3717] DEBUG -- : Client disconnected
+D, [2015-12-06T21:43:34.568972 #3717] DEBUG -- : Client connected
+D, [2015-12-06T21:43:34.571770 #3717] DEBUG -- : Received message: {"post":{"action":"create"}}
+D, [2015-12-06T21:43:34.572276 #3717] DEBUG -- : Client disconnected
+D, [2015-12-06T21:44:48.764179 #3877] DEBUG -- : Client connected
+D, [2015-12-06T21:44:48.773111 #3877] DEBUG -- : Received message: {"post":{"action":"create"}}
+D, [2015-12-06T21:44:48.774830 #3877] DEBUG -- : Client disconnected
+D, [2015-12-07T09:38:56.651001 #2844] DEBUG -- : Client connected
+D, [2015-12-07T09:55:48.703139 #2844] DEBUG -- : Client connected
+D, [2015-12-07T09:57:14.067400 #2844] DEBUG -- : Client connected
+D, [2015-12-07T09:57:14.089827 #2844] DEBUG -- : Received message: {"post":{"id":"1"}
+D, [2015-12-07T09:57:14.092343 #2844] DEBUG -- : Client disconnected
+D, [2015-12-07T09:57:31.696222 #2844] DEBUG -- : Client connected
